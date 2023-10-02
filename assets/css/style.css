@@ -671,10 +671,12 @@ section {
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
-  border: 1px solid #ebebeb;
+  border: 1px solid #be9b27;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
+  height: 350px;
+  width: 300px;
 }
 
 .services .icon-box .icon {
